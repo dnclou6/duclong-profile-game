@@ -119,7 +119,7 @@ const MarioProfile = () => {
     profile: {
       title: '👤 Phạm Đức Long',
       subtitle: 'Intern Java Developer',
-      text: '🎂 Ngày sinh: 09/10/2005\n📍 Bát Khối, Long Biên, Hà Nội\n\nTôi là một sinh viên đam mê lập trình, đặc biệt là Java Backend Development. Hiện đang học tại FPT Polytechnic với GPA 3.8/4.0.',
+      text: '🎂 Ngày sinh: 09/10/2006\n📍 Bát Khối, Long Biên, Hà Nội\n\nTôi là một sinh viên đam mê lập trình, đặc biệt là Java Backend Development. Hiện đang học tại FPT Polytechnic với GPA 3.8/4.0.',
       color: 'from-blue-500 to-cyan-500',
       icon: '👨‍💻'
     },
